@@ -9,4 +9,4 @@ obj.onreadystatechange = function(){
 };
 obj.send(null);
 
-document.getElementById("debug").innerHTML = str2;
+document.getElementById("debug").innerHTML = str;
